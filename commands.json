@@ -1,0 +1,16 @@
+{
+	"automation" : {
+		"spam" : {
+      "email" : "email object",
+      "command" : "command object"
+    }
+	},
+	"exploit" : {
+		"win32" : {
+			"ntf_payload" : "ntf_payload object"
+		}
+	},
+	"funny" : {
+    "delete_system32" : "delete_system32 object"
+  }
+}
